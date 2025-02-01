@@ -1,0 +1,27 @@
+*{
+    font-family: cursive;
+}
+
+.main{
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightgoldenrodyellow;
+}
+
+h1{
+    font-size: 26px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2,h3{
+    font-size: 20px;
+}

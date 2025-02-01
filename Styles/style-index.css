@@ -1,0 +1,56 @@
+*{
+    font-family: cursive;
+    border-radius: 15px;
+}
+
+section{
+    padding: 70px;
+    margin: 70px;
+    background-color: rgb(200, 247, 185);
+}
+h1{
+    font-weight: bold;
+    background-color: aqua;
+    text-align: center;
+    border: saddlebrown;
+    border-radius: 12px;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 30%;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+}
+ul{
+    text-align: center;
+}
+
+.head{
+    width: auto;
+    height: auto;
+    padding: 10px;
+    margin: 10px;
+    border: 10%;
+}
+body{
+    width: auto;
+    height: auto;
+    margin: 10px;
+    background-color: rgb(238, 233, 226);
+    padding: 10px;
+    border-style: solid;
+}
+
+a:hover{
+    color:brown
+}
+a:visited{
+    color: blueviolet;
+}
